@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Turtle Throttle Tester
+## Author: |c013220ffTrumpetX|r
+## Version: 1.0.0
+## Notes: https://github.com/trumpetx/TurtleThrottleTester
+## SavedVariables: 
+
+TurtleThrottleTester.lua
