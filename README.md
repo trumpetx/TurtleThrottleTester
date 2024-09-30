@@ -23,6 +23,11 @@ On 2024-09-30, the following tests were performed:
 |2|2|22|60|
 |1|3|33|60|
 |.1|6|66|60|
+|4.1|0|11|45|
+|3.2|0|14|45|
+|3.1|0|14|45|
+|3.05|1|11|45|
+|3|1|12|45|
 |1|0|10|10|
 |.9|0|11|10|
 |.85|1|11|10|
@@ -34,8 +39,7 @@ On 2024-09-30, the following tests were performed:
 |---|---|
 |11|1|
 |11|10|
-|11|30|
-|11|?45?|
+|11|35|
 
 If you cross more than 11 messages over any of those thresholds, then you're muted and your limit is reset.
 
